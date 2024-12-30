@@ -16,11 +16,19 @@
     "start": "node server.js",
     "server": "nodemon server.js"
   },
-  "name": "project-complaints",
+  "name": "vit-complaints",
   "version": "1.0.0",
   "main": "server.js",
   "author": "",
   "license": "ISC",
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbhanu220904/vit-complaints.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nbhanu220904/vit-complaints/issues"
+  },
+  "homepage": "https://github.com/nbhanu220904/vit-complaints#readme",
   "description": ""
 }
